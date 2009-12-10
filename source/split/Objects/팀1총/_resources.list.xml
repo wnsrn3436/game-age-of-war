@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="chdgkq" type="RESOURCE"/>
+  <resource name="권총" type="RESOURCE"/>
+  <resource name="기관총" type="RESOURCE"/>
+  <resource name="수류탄" type="RESOURCE"/>
+  <resource name="박격포" type="RESOURCE"/>
+  <resource name="총탄" type="RESOURCE"/>
+  <resource name="그림자" type="RESOURCE"/>
+  <resource name="플레이어총" type="GROUP"/>
+</resources>

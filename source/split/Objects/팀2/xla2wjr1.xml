@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<object id="33">
+  <sprite>권총주인공</sprite>
+  <solid>false</solid>
+  <visible>true</visible>
+  <depth>0</depth>
+  <persistent>false</persistent>
+  <parent>xla2gkq</parent>
+  <mask>기존인간</mask>
+</object>

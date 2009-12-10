@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="벽통합" type="RESOURCE"/>
+  <resource name="벽" type="RESOURCE"/>
+  <resource name="벽2" type="RESOURCE"/>
+  <resource name="벽2-2" type="RESOURCE"/>
+</resources>

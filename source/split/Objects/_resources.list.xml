@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="목숨" type="RESOURCE"/>
+  <resource name="피" type="RESOURCE"/>
+  <resource name="대형피" type="RESOURCE"/>
+  <resource name="죽음" type="RESOURCE"/>
+  <resource name="폭발" type="RESOURCE"/>
+  <resource name="팀1" type="GROUP"/>
+  <resource name="팀1총" type="GROUP"/>
+  <resource name="팀2" type="GROUP"/>
+  <resource name="팀2총" type="GROUP"/>
+  <resource name="벽" type="GROUP"/>
+  <resource name="소환" type="RESOURCE"/>
+  <resource name="소환2" type="RESOURCE"/>
+  <resource name="소환제어" type="RESOURCE"/>
+</resources>

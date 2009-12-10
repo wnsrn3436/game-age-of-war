@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="권총주인공" type="RESOURCE"/>
+  <resource name="기관총주인공" type="RESOURCE"/>
+  <resource name="수류탄주인공" type="RESOURCE"/>
+  <resource name="기존인간" type="RESOURCE"/>
+  <resource name="인간2기관" type="RESOURCE"/>
+  <resource name="인간2박격포" type="RESOURCE"/>
+  <resource name="마우스" type="RESOURCE"/>
+  <resource name="총모양" type="RESOURCE"/>
+  <resource name="총모양2" type="RESOURCE"/>
+  <resource name="총탄" type="RESOURCE"/>
+  <resource name="수류탄" type="RESOURCE"/>
+  <resource name="박격포" type="RESOURCE"/>
+  <resource name="폭발" type="RESOURCE"/>
+  <resource name="피" type="RESOURCE"/>
+  <resource name="대형피" type="RESOURCE"/>
+  <resource name="죽음" type="RESOURCE"/>
+  <resource name="벽" type="RESOURCE"/>
+  <resource name="벽2" type="RESOURCE"/>
+  <resource name="벽2-2" type="RESOURCE"/>
+</resources>
