@@ -16,12 +16,12 @@
     <switchVideoMode>false</switchVideoMode>
   </windowing>
   <splashImage>
-    <showCustom>false</showCustom>
+    <showCustom>true</showCustom>
     <partiallyTransparent>false</partiallyTransparent>
     <alphaTransparency>255</alphaTransparency>
   </splashImage>
   <progressBar>
-    <mode>LOADBAR_DEFAULT</mode>
+    <mode>LOADBAR_CUSTOM</mode>
     <scaleImage>true</scaleImage>
   </progressBar>
   <keys>

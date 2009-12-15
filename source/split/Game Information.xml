@@ -9,7 +9,7 @@
   <allowResize>true</allowResize>
   <backgroundColor>FFFFE1</backgroundColor>
   <formCaption>Game Information</formCaption>
-  <mimicGameWindow>false</mimicGameWindow>
+  <mimicGameWindow>true</mimicGameWindow>
   <pauseGame>true</pauseGame>
   <showBorder>true</showBorder>
   <stayOnTop>false</stayOnTop>

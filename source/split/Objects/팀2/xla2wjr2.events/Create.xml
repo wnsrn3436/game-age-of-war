@@ -32,7 +32,7 @@
         <argument kind="STRING">sp=4   //스피드
 chd=1  //총
 chd1znf=0  //총쿨
-hp=200  //hp선언
+hp=100  //hp선언
 wjrx=x
 wjry=y
 tldi=200
