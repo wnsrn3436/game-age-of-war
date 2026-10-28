@@ -1,6 +1,8 @@
 # Age of War
 
-A top down combat game where you fight waves of an enemy team in an arena full of obstacles. Made for a GameMaker community event.
+[한국어](README.ko.md)
+
+A top-down combat game where you fight waves of an enemy team in an arena full of obstacles. Made for a GameMaker community event.
 
 <p>
   <img src="docs/screenshots/screenshot-1.png" width="306" alt="Gameplay">
@@ -9,7 +11,7 @@ A top down combat game where you fight waves of an enemy team in an arena full o
 
 ## How to play
 
-Download from Releases and run it.
+Download it from Releases and run it.
 
 Move with WASD and aim with the mouse. Keys 1, 2 and 3 switch weapons.
 
@@ -19,12 +21,12 @@ Move with WASD and aim with the mouse. Keys 1, 2 and 3 switch weapons.
 | 2 | Machine gun (10 damage) |
 | 3 | Grenade |
 
-Remaining lives, kills and enemies left are shown in the window title bar.
+The window title bar shows remaining lives, kills, and enemies left.
 
 
 ## How it works
 
-The enemy unit's mortar combines a trail effect with a scattered explosion. While the shell is in the air, an alarm keeps dropping shadow objects behind it to leave a trail. Each shadow uses its own alarm to cut `image_alpha` by 0.5 until it drops below 0 and removes itself. On impact it creates one explosion at the landing point, then scatters five more at offsets picked with `choose(20,25,30,35)`, so every blast looks a little different.
+The enemy unit's mortar combines a trail effect with explosion effects. While the shell is in the air, an alarm keeps dropping shadow objects behind it to leave a trail. Each dropped shadow uses its own alarm to lower `image_alpha` by 0.5 at a time and removes itself once the value goes below 0. On impact it creates one explosion at the landing point, then scatters five more at offsets picked with `choose(20,25,30,35)`, so the blast looks different every time.
 
 
 ## Files
@@ -39,4 +41,4 @@ The enemy unit's mortar combines a trail effect with a scattered explosion. Whil
 
 ## License
 
-CC BY-NC-ND 4.0. Unmodified copies may be shared for noncommercial purposes with attribution. Modified versions and commercial use are not allowed. Bundled libraries, graphics, sounds, and maps made by other people keep their own rights. See [LICENSE](LICENSE).
+CC BY-NC-ND 4.0. Unmodified copies may be shared for noncommercial purposes with attribution. Distributing modified versions and commercial use are not allowed. Bundled libraries, graphics, sounds, and maps made by other people keep their own rights. See [LICENSE](LICENSE).
